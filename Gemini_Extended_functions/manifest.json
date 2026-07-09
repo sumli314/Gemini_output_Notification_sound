@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Done 提示音 (內建震盪器版)",
+  "version": "2.0",
+  "description": "當 Gemini 輸出 done 時發出聲音",
+  "content_scripts": [
+    {
+      "matches": ["*://gemini.google.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
