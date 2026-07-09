@@ -1,4 +1,4 @@
-# Gemini_output_Notification_sound
+# Gemini-output-Notification-sound
 What is this?
 
 About This is a Gemini monitoring script. It tracks the "Stop" button to detect if the AI is generating content. When the button vanishes, a silenceCounter buffers the check to confirm the AI has truly finished, then triggers an audio alert to notify you. 
