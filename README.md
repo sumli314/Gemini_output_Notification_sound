@@ -22,3 +22,9 @@ Step2: 啟用開發人員模式： 找到頁面右上角的「開發人員模式
 Step3: 載入資料夾： 點擊左上角出現的「載入未封裝項目 (Load unpacked)」按鈕。
 
 Step4: 選擇目錄： 瀏覽並選取包含您擴充功能原始碼檔案的資料夾，最後點擊「選取資料夾」或「確定」即可完成安裝。
+
+Why I doing this?
+
+It allows you to multitask effectively. You can switch to another tab or work on other applications while Gemini is thinking or generating long outputs, ensuring you never miss the moment the response is ready.
+
+解決您在等待長篇輸出時，因為切換視窗而錯過進度的問題。讓您在等待期間可以專注於其他任務，聽到提示音再回來查看結果即可。
